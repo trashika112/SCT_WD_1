@@ -43,7 +43,7 @@ Feel free to fork the repository, improve the project, or share suggestions via 
 
 ## 🧑‍💻 Developed By
 
-**Trashika S. Karkera** 
+**Trashika S Karkera** 
 
 ---
 
